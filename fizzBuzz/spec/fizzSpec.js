@@ -1,6 +1,6 @@
 describe("FizzBuzz", function() {
     
-    var number = -1;
+    
     
     it("should return FizzBuzz if the number is divisible by 3 or 5", function() {
         expect(FizzBuzz(15)).toBe("FizzBuzz");
